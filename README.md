@@ -1,4 +1,4 @@
-# imagepro.py
+# restore_missing_pixels.py
 Interpolate and fill the holes in a damaged photograph. It uses sparse reconstruction using Haar Wavelets.
 
 # imagepro.py
